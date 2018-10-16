@@ -1,10 +1,10 @@
 <?php
 
-namespace EricDupertuis\Service;
+namespace EricDupertuis\EntityCompletion\Service;
 
 use Doctrine\Common\Annotations\AnnotationReader;
 use Doctrine\Common\Annotations\Reader;
-use App\Annotations\Completion;
+use EricDupertuis\EntityCompletion\Annotations\Completion;
 
 class CompletionService
 {

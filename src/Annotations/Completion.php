@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Annotations;
+namespace EricDupertuis\EntityCompletion\Annotations;
 
 use Doctrine\Common\Annotations\Annotation;
 
