@@ -1,5 +1,5 @@
 {
-    "name": "ericdupertuis/entity-completion",
+    "name": "ericdupertuis/entity-completion-bundle",
     "description": "Calculate the completion percentage of an entity using annotations",
     "type": "library",
     "require": {
